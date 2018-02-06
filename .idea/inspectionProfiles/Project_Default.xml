@@ -1,0 +1,152 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AliAccessStaticViaInstance" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AliAccessToNonThreadSafeStaticFieldFromInstance" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AliArrayNamingShouldHaveBracket" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AliControlFlowStatementWithoutBraces" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AliDeprecation" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AliEqualsAvoidNull" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AliLongLiteralsEndingWithLowercaseL" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AliMissingOverrideAnnotation" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AliWrapperTypeEquality" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAbstractClassShouldStartWithAbstractNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAbstractMethodOrInterfaceMethodMustUseJavadoc" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidApacheBeanUtilsCopy" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidComplexCondition" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidConcurrentCompetitionRandom" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidManuallyCreateThread" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidMissUseOfMathRandom" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidNewDateGetTime" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidPatternCompileInMethod" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidReturnInFinally" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidStartWithDollarAndUnderLineNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaAvoidUseTimer" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaBooleanPropertyShouldNotStartWithIs" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaClassCastExceptionWithSubListToArrayList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaClassCastExceptionWithToArray" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaClassMustHaveAuthor" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaClassNamingShouldBeCamel" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaCollectionInitShouldAssignCapacity" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaCommentsMustBeJavadocFormat" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaConcurrentExceptionWithModifyOriginSubList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaConstantFieldShouldBeUpperCase" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaCountDownShouldInFinally" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaDontModifyInForeachCircle" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaEnumConstantsMustHaveComment" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaExceptionClassShouldEndWithException" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaIbatisMethodQueryForList" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaLowerCamelCaseVariableNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaMethodReturnWrapperType" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaPackageNaming" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaPojoMustOverrideToString" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaPojoMustUsePrimitiveField" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaPojoNoDefaultValue" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaRemoveCommentedCode" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaServiceOrDaoClassShouldEndWithImpl" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaStringConcat" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaSwitchStatement" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaTestClassShouldEndWithTestNaming" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaThreadLocalShouldRemove" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaThreadPoolCreation" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaThreadShouldSetName" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaTransactionMustHaveRollback" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaUndefineMagicConstant" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaUnsupportedExceptionWithModifyAsList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="AlibabaUseQuietReferenceNotation" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="date" />
+    </inspection_tool>
+    <inspection_tool class="JdAccessStaticViaInstance" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="JdAccessToNonThreadSafeStaticFieldFromInstance" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="JdArrayNamingShouldHaveBracket" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckCondition" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckLogPakage" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckLogStyle" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckMethodBodyCount" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckMethodParams" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckObjectCase" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckString" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdCheckStringSpace" enabled="false" level="WARNING (警告)" enabled_by_default="false" />
+    <inspection_tool class="JdControlFlowStatementWithoutBraces" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="JdDeprecation" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="JdEqualsAvoidNull" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="JdLongLiteralsEndingWithLowercaseL" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="JdMapOrSetKeyShouldOverrideHashCodeEquals" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="JdMissingOverrideAnnotation" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="JdWrapperTypeEquality" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="MapOrSetKeyShouldOverrideHashCodeEquals" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdAbstractClassShouldStartWithAbstractNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdAbstractMethodOrInterfaceMethodMustUseJavadoc" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidApacheBeanUtilsCopy" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidComplexCondition" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidConcurrentCompetitionRandom" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidManuallyCreateThread" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidMissUseOfMathRandom" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidNewDateGetTime" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidPatternCompileInMethod" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidReturnInFinally" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidStartWithDollarAndUnderLineNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdAvoidUseTimer" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdBooleanPropertyShouldNotStartWithIs" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdClassCastExceptionWithSubListToArrayList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdClassCastExceptionWithToArray" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdClassMustHaveAuthor" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdClassNamingShouldBeCamel" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdCollectionInitShouldAssignCapacity" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdCommentsMustBeJavadocFormat" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdConcurrentExceptionWithModifyOriginSubList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdConstantFieldShouldBeUpperCase" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdCountDownShouldInFinally" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdDontModifyInForeachCircle" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdEnumConstantsMustHaveComment" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdExceptionClassShouldEndWithException" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdIbatisMethodQueryForList" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdLowerCamelCaseVariableNaming" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdMethodReturnWrapperType" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdPackageNaming" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdPojoMustOverrideToString" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdPojoMustUsePrimitiveField" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdPojoNoDefaultValue" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdRemoveCommentedCode" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdServiceOrDaoClassShouldEndWithImpl" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdStringConcat" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdSwitchStatement" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdTestClassShouldEndWithTestNaming" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdThreadLocalShouldRemove" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdThreadPoolCreation" enabled="false" level="BLOCKER (崩溃)" enabled_by_default="false" />
+    <inspection_tool class="jdThreadShouldSetName" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdTransactionMustHaveRollback" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdUndefineMagicConstant" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+    <inspection_tool class="jdUnsupportedExceptionWithModifyAsList" enabled="false" level="CRITICAL (严重)" enabled_by_default="false" />
+    <inspection_tool class="jdUseQuietReferenceNotation" enabled="false" level="MAJOR (一般)" enabled_by_default="false" />
+  </profile>
+</component>
